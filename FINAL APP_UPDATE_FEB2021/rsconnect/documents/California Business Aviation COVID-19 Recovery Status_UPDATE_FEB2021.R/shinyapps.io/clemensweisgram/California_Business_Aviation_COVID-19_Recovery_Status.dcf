@@ -1,0 +1,13 @@
+name: California_Business_Aviation_COVID-19_Recovery_Status
+title: California_Business_Aviation_COVID-19_Recovery_Status
+username:
+account: clemensweisgram
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3881020
+bundleId: 4477714
+url: https://clemensweisgram.shinyapps.io/California_Business_Aviation_COVID-19_Recovery_Status/
+when: 1618527075.29463
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_Feb2020.xls|data_Feb2021.xls
